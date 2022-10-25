@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body {
+    padding-left: 15px;
+    background: #333;
+    font-family: "Arial Black";
+    margin-top: 100px;
+}
+#weather {
+    text-align: center;
+    color: #fff;
+    font-size: 50px;
+
+}
+.box {
+    background-color: #ff9800;
+    padding: 5px;
+    border-radius: 500px;
+}
